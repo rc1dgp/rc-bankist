@@ -1,6 +1,6 @@
-<img src="https://github.com/rc1dgp/rc-bankist/main/img/project-preview-01.png?raw=true" ></img>
-<img src="https://github.com/rc1dgp/rc-bankist/main/img/project-preview-02.png?raw=true" ></img>
-<img src="https://github.com/rc1dgp/rc-bankist/main/img/project-preview-03.png?raw=true" ></img>
+<img src="https://github.com/rc1dgp/rc-bankist/blob/main/bankist-main/img/project-preview-01.png?raw=true" ></img>
+<img src="https://github.com/rc1dgp/rc-bankist/blob/main/bankist-main/img/project-preview-02.png?raw=true" ></img>
+<img src="https://github.com/rc1dgp/rc-bankist/blob/main/bankist-main/img/project-preview-03.png?raw=true" ></img>
 
 # Bankist
 
